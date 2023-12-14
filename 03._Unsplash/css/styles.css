@@ -1,0 +1,27 @@
+.main{
+    width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.div_img{
+    width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.img{
+    width: 200px;
+    height: 200px;
+}
+
+.recargar{
+    margin-top: 10px;
+}
+
+.ocultar{
+    display: none;
+}
